@@ -20,5 +20,6 @@
         "psr-4": {
             "Jazor\\Crypt\\": "src/Jazor/Crypt/"
         }
-    }
+    },
+    "minimum-stability": "dev"
 }
