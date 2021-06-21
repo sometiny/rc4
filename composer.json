@@ -1,7 +1,7 @@
 {
     "name": "jazor/rc4",
     "type": "library",
-    "description": "a pure php implement for rc4",
+    "description": "a pure php implement for rc4, as stream",
     "keywords": ["rc4","jazor"],
     "homepage": "https://github.com/cook-code-jazor/rc4",
     "license": "MIT",
