@@ -9,8 +9,7 @@
         {
             "name": "anlige",
             "email": "zhanghuiguoanlige@126.com",
-            "homepage": "https://github.com/cook-code-jazor/rc4",
-            "role": "Developer"
+            "homepage": "https://github.com/cook-code-jazor/rc4"
         }
     ],
     "require": {
